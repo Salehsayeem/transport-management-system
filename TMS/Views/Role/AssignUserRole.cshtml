@@ -1,0 +1,23 @@
+﻿@*@model IdentityDemo.Models.ViewModel.UserRoleMapping*@
+@{
+    ViewData["Title"] = "AssignRole";
+}
+
+<h1>Assign Role</h1>
+<table class="table">
+    <tr>
+        <th>User Name</th>
+        <th>Role Name</th>
+
+    </tr>
+    @foreach (var item in ViewBag.UserRole)
+    {
+        <tr>
+            <td>@item.UserName</td>
+            <td>@item.RoleName</td>
+        </tr>
+    }
+</table>
+<div>
+    <a asp-action="Index">Back to Role List</a>
+</div>
