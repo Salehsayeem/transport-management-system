@@ -19,7 +19,6 @@ namespace TMS.Models
         public VehicleType VehicleType { get; set; }
         public Route Route { get; set; }
         public ApplicationUser ApplicationUser { get; set; }
-        
 
 
     }

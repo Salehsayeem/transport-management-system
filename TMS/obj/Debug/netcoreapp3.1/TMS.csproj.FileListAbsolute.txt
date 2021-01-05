@@ -506,3 +506,13 @@ G:\Business\TMS3\TMS\obj\Debug\netcoreapp3.1\Razor\Views\User\Active.cshtml.g.cs
 G:\Business\TMS3\TMS\obj\Debug\netcoreapp3.1\Razor\Views\User\Delete.cshtml.g.cs
 G:\Business\TMS3\TMS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_PartialView.cshtml.g.cs
 G:\Business\TMS3\TMS\obj\Debug\netcoreapp3.1\Razor\Views\User\Edit.cshtml.g.cs
+G:\Business\TMS3\TMS\obj\Debug\netcoreapp3.1\Razor\Views\VehicleTypes\Create.cshtml.g.cs
+G:\Business\TMS3\TMS\obj\Debug\netcoreapp3.1\Razor\Views\VehicleTypes\Delete.cshtml.g.cs
+G:\Business\TMS3\TMS\obj\Debug\netcoreapp3.1\Razor\Views\VehicleTypes\Details.cshtml.g.cs
+G:\Business\TMS3\TMS\obj\Debug\netcoreapp3.1\Razor\Views\VehicleTypes\Edit.cshtml.g.cs
+G:\Business\TMS3\TMS\obj\Debug\netcoreapp3.1\Razor\Views\VehicleTypes\Index.cshtml.g.cs
+G:\Business\TMS3\TMS\obj\Debug\netcoreapp3.1\Razor\Views\VehicleInformations\Create.cshtml.g.cs
+G:\Business\TMS3\TMS\obj\Debug\netcoreapp3.1\Razor\Views\VehicleInformations\Delete.cshtml.g.cs
+G:\Business\TMS3\TMS\obj\Debug\netcoreapp3.1\Razor\Views\VehicleInformations\Details.cshtml.g.cs
+G:\Business\TMS3\TMS\obj\Debug\netcoreapp3.1\Razor\Views\VehicleInformations\Edit.cshtml.g.cs
+G:\Business\TMS3\TMS\obj\Debug\netcoreapp3.1\Razor\Views\VehicleInformations\Index.cshtml.g.cs
